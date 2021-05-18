@@ -11,9 +11,9 @@ Provide contact email address
 
 Authors:
 * **First Author Name**: [Homepage](https://de.wikipedia.org)
-* **Second Author Name**: [Homepage](de.wikipedia.org)
-* **Third Author Name**: [Homepage](de.wikipedia.org)
-* **Fourth Author Name**: [Homepage](de.wikipedia.org)
+* **Second Author Name**: [Homepage](https://de.wikipedia.org)
+* **Third Author Name**: [Homepage](https://de.wikipedia.org)
+* **Fourth Author Name**: [Homepage](https://de.wikipedia.org)
 
 
 ## Exercises
@@ -21,9 +21,9 @@ Authors:
 ### Section 1 - Deep Learning Basics
 
 #### Chapter 3 - Building blocks of neural networks
-* **3.1**:  [Problem](https://de.wikipedia.org)  [Solution](https://de.wikipedia.org)
-* **3.2**:  [Problem](https://de.wikipedia.org)  [Solution](https://de.wikipedia.org)
-* **3.3**:  [Problem](https://de.wikipedia.org)  [Solution](https://de.wikipedia.org)
+* **3.1**:  [Problem](Exercise_4.ipynb)  [Solution](Exercise_4.ipynb)
+* **3.2**:  [Problem](Exercise_4.ipynb)  [Solution](Exercise_4.ipynb)
+* **3.3**:  [Problem](Exercise_4.ipynb)  [Solution](Exercise_4.ipynb)
 
 #### Chapter 4 - Optimization of network parameters
 * **4.1**:  [Problem](https://de.wikipedia.org)  [Solution](https://de.wikipedia.org)
