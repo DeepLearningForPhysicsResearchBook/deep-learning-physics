@@ -3,18 +3,12 @@
 
 ## Information
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+This page contains additional material for the textbook *Deep Learning for Physics Research* by
+Martin Erdmann, Jonas Glombitza, [Gregor Kasieczka](https://www.physik.uni-hamburg.de/iexp/gruppe-kasieczka.html), and Uwe Klemradt.
 
-Link to the publisher page
+The authors can be contacted under [authors@deeplearningphysics.org](mailto:authors@deeplearningphysics.org).
 
-Provide contact email address
-
-Authors:
-* **First Author Name**: [Homepage](https://de.wikipedia.org)
-* **Second Author Name**: [Homepage](https://de.wikipedia.org)
-* **Third Author Name**: [Homepage](https://de.wikipedia.org)
-* **Fourth Author Name**: [Homepage](https://de.wikipedia.org)
-
+For more information on the book, refer to the page by the [publisher](https://worldscientific.com/worldscibooks/10.1142/12294).
 
 ## Exercises
 
