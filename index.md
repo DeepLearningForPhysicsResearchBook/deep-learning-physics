@@ -1,6 +1,3 @@
-# Deep Learning for Physics Research
-
-
 ## Information
 
 This page contains additional material for the textbook *Deep Learning for Physics Research* by
