@@ -1,7 +1,7 @@
 ## Information
 
 This page contains additional material for the textbook *Deep Learning for Physics Research* by
-Martin Erdmann, Jonas Glombitza, [Gregor Kasieczka](https://www.physik.uni-hamburg.de/iexp/gruppe-kasieczka.html), and Uwe Klemradt.
+Martin Erdmann, [Jonas Glombitza](https://www.jonas-glombitza.com/), [Gregor Kasieczka](https://www.physik.uni-hamburg.de/iexp/gruppe-kasieczka.html), and Uwe Klemradt.
 
 The authors can be contacted under [authors@deeplearningphysics.org](mailto:authors@deeplearningphysics.org).
 
@@ -24,6 +24,12 @@ For more information on the book, refer to the page by the [publisher](https://w
 
 
 ### Section 2 - Standard Architectures of Deep Networks
+
+#### Chapter 7 - Fully-connected networks: improving the classic all-rounder
+* **4.1**:  Problem ([Download](Exercise_7.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_7.ipynb)) Solution ([Download](Exercise_7.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_7_solution.ipynb))
+
+#### Chapter 8 - Convolutional neural networks and analysis of image-like data
+* **4.1**:  Problem ([Download](Exercise_8.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_8.ipynb)) Solution ([Download](Exercise_8.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_8_solution.ipynb))
 
 ### Section 3 - Introspection, Uncertainties, Objectives
 
