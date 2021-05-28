@@ -20,16 +20,16 @@ For more information on the book, refer to the page by the [publisher](https://w
 #### Chapter 4 - Optimization of network parameters
 * **4.1**:  Problem ([Download](Exercise_4.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4.ipynb)) Solution ([Download](Exercise_4.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4.ipynb))
 * **4.2**:  Problem ([Download](Exercise_4.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4.ipynb)) Solution ([Download](Exercise_4.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4.ipynb))
-* **4.3**:  Problem ([Download](Exercise_4.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4.ipynb)) Solution ([Download](Exercise_4.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4.ipynb))
+* **4.3**:  Problem ([Download](Exercise_4_3.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4_3.ipynb)) Solution ([Download](Exercise_4_3.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4_3_solution.ipynb))
 
 
 ### Section 2 - Standard Architectures of Deep Networks
 
 #### Chapter 7 - Fully-connected networks: improving the classic all-rounder
-* **4.1**:  Problem ([Download](Exercise_7.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_7.ipynb)) Solution ([Download](Exercise_7.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_7_solution.ipynb))
+* **7.1**:  Problem ([Download](Exercise_7.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_7.ipynb)) Solution ([Download](Exercise_7.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_7_solution.ipynb))
 
 #### Chapter 8 - Convolutional neural networks and analysis of image-like data
-* **4.1**:  Problem ([Download](Exercise_8.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_8.ipynb)) Solution ([Download](Exercise_8.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_8_solution.ipynb))
+* **8.1**:  Problem ([Download](Exercise_8.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_8.ipynb)) Solution ([Download](Exercise_8.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_8_solution.ipynb))
 
 ### Section 3 - Introspection, Uncertainties, Objectives
 

@@ -1,0 +1,252 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Exercise 4.3 - Solution\n",
+    "## Classification\n",
+    "Suppose we want to classify some data (4 samples) into 3 distinct classes: 0, 1, and 2.\n",
+    "We have set up a network with a pre-activation output `z` in the last layer.\n",
+    "Applying softmax will give the final model output.\n",
+    "\n",
+    "input X ---> some network --> `z`<br>\n",
+    "--> `y_model = softmax(z)`\n",
+    "\n",
+    "We quantify the agreement between truth (y) and model using categorical cross-entropy.\n",
+    "\n",
+    "$$J = - \\sum_i (y_i * \\log(y_\\mathrm{model}(x_i))$$\n",
+    "\n",
+    "In the following you are to implement softmax and categorical cross-entropy\n",
+    "and evaluate them values given the values for `z`."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import numpy as np"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "##### Data: 4 samples with the following class labels (input features X irrelevant here)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "y_cl = np.array([0, 0, 2, 1])"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "##### output of the last network layer before applying softmax"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "z = np.array([\n",
+    "    [4,    5,    1],\n",
+    "    [-1,  -2,   -3],\n",
+    "    [0.1, 0.2, 0.3],\n",
+    "    [-1,  17,    1]\n",
+    "    ]).astype(np.float32)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Task 1)\n",
+    "Write a function that turns any class labels `y_cl` into one-hot encodings `y`.\n",
+    "\n",
+    "0 --> (1, 0, 0)<br>   \n",
+    "1 --> (0, 1, 0)<br>   \n",
+    "2 --> (0, 0, 1)<br>\n",
+    "\n",
+    "Make sure that `np.shape(y) = (4, 3)` for `np.shape(y_cl) = (4)`.\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "one-hot encoding of data labels\n",
+      "[[1. 0. 0.]\n",
+      " [1. 0. 0.]\n",
+      " [0. 0. 1.]\n",
+      " [0. 1. 0.]]\n"
+     ]
+    }
+   ],
+   "source": [
+    "def to_onehot(y_cl, num_classes):\n",
+    "    y = np.zeros((len(y_cl), num_classes))\n",
+    "    y[np.arange(4), y_cl] = 1\n",
+    "    return y\n",
+    "\n",
+    "y = to_onehot(y_cl, num_classes=3)\n",
+    "print('one-hot encoding of data labels')\n",
+    "print(y)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Task 2)\n",
+    "Write a function that returns the softmax of the input `z` along the last axis"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "softmax(z)\n",
+      "[[2.6538792e-01 7.2139925e-01 1.3212887e-02]\n",
+      " [6.6524100e-01 2.4472848e-01 9.0030573e-02]\n",
+      " [3.0060962e-01 3.3222499e-01 3.6716542e-01]\n",
+      " [1.5229979e-08 9.9999994e-01 1.1253517e-07]]\n"
+     ]
+    }
+   ],
+   "source": [
+    "def softmax(z):\n",
+    "    expz = np.exp(z).T\n",
+    "    return (expz / np.sum(expz, axis=0)).T\n",
+    "\n",
+    "y_model = softmax(z)\n",
+    "print('softmax(z)')\n",
+    "print(y_model)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Task 3)\n",
+    "Compute the categorical cross-entropy between data and model"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "cross entropy = 0.684028\n"
+     ]
+    }
+   ],
+   "source": [
+    "crossentropy = -np.mean(np.sum(y * np.log(y_model), axis=1))\n",
+    "crossentropy = -np.mean(np.log(y_model[np.arange(4), y_cl]))  # alternative formulation\n",
+    "print('cross entropy = %f' % crossentropy)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Task 4)\n",
+    "Determine which calsses are predicted by the model (maximum prediction)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "\n",
+      "true class labels =  [0 0 2 1]\n",
+      "predicted class labels = [1 0 2 1]\n"
+     ]
+    }
+   ],
+   "source": [
+    "y_model_cl = np.argmax(y_model, axis=1)\n",
+    "print('\\ntrue class labels = ', y_cl)\n",
+    "print('predicted class labels =', y_model_cl)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Task 5)\n",
+    "Estimate how many samples are classified correctly (accuracy)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "accuracy = 0.75\n"
+     ]
+    }
+   ],
+   "source": [
+    "accuracy = np.mean(y_model_cl == y_cl)\n",
+    "print('accuracy = %.2f' % accuracy)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
