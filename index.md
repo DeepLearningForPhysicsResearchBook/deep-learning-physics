@@ -1,7 +1,7 @@
 ## Information
 
 This page contains additional material for the textbook *Deep Learning for Physics Research* by
-[Martin Erdmann](www.physik.rwth-aachen.de/user/erdmann), [Jonas Glombitza](https://www.jonas-glombitza.com/), [Gregor Kasieczka](https://www.physik.uni-hamburg.de/iexp/gruppe-kasieczka.html), and Uwe Klemradt.
+[Martin Erdmann](https://www.physik.rwth-aachen.de/user/erdmann), [Jonas Glombitza](https://www.jonas-glombitza.com/), [Gregor Kasieczka](https://www.physik.uni-hamburg.de/iexp/gruppe-kasieczka.html), and Uwe Klemradt.
 
 The authors can be contacted under [authors@deeplearningphysics.org](mailto:authors@deeplearningphysics.org).
 
