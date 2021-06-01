@@ -26,12 +26,13 @@ For more information on the book, refer to the page by the [publisher](https://w
 ### Section 2 - Standard Architectures of Deep Networks
 
 #### Chapter 7 - Fully-connected networks: improving the classic all-rounder
-* **7.1**:  Problem ([Download](Exercise_7.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_7.ipynb)) Solution ([Download](Exercise_7.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_7_solution.ipynb))
+* **7.1**:  Problem ([Download](Exercise_7.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_7.ipynb)) Solution ([Download](Exercise_7_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_7_solution.ipynb))
 
 #### Chapter 8 - Convolutional neural networks and analysis of image-like data
-* **8.1**:  Problem ([Download](Exercise_8.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_8.ipynb)) Solution ([Download](Exercise_8.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_8_solution.ipynb))
+* **8.1**:  Problem ([Download](Exercise_8.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_8.ipynb)) Solution ([Download](Exercise_8_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_8_solution.ipynb))
 
 ### Section 3 - Introspection, Uncertainties, Objectives
+* **8.1**:  Problem ([Download](Exercise_12_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_2.ipynb)) Solution ([Download](Exercise_12_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12.2_solution.ipynb))
 
 ### Section 4 - Deep Learning Advanced Concepts
 
