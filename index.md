@@ -32,8 +32,8 @@ For more information on the book, refer to the page by the [publisher](https://w
 * **8.1**:  Problem ([Download](Exercise_8_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_8_1.ipynb)) Solution ([Download](Exercise_8_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_8_1_solution.ipynb))
 
 #### Chapter 9 - Recurrent neural networks: time series and variable input
-* **9.1**:  Problem ([Download](Exercise_9_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_9_1.ipynb)) Solution ([Download](Exercise_9_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_9_1_solution.ipynb))
-
+* **9.1**:  Problem ([Download](Exercise_9_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_9_1.ipynb))
+* **9.2**:  Problem ([Download](Exercise_9_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_9_2.ipynb)) Solution ([Download](Exercise_9_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_9_2_solution.ipynb))
 
 ### Section 3 - Introspection, Uncertainties, Objectives
 * **12.2**:  Problem ([Download](Exercise_12_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_2.ipynb)) Solution ([Download](Exercise_12_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_2_solution.ipynb))
