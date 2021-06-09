@@ -25,7 +25,8 @@ For more information on the book, refer to the page by the [publisher](https://w
 #### Chapter 5 - Mastering model building
 * **5.1**:  Problem ([Download](Exercise_5_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_1.ipynb)) Solution ([Download](Exercise_5_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_1_solution.ipynb))
 * **5.2**:  Problem ([Download](Exercise_5_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_2.ipynb)) Solution ([Download](Exercise_5_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_2_solution.ipynb))
-* **5.2**:  Problem ([Download](Exercise_5_3.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_3.ipynb)) Solution ([Download](Exercise_5_3_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_3_solution.ipynb))
+* **5.3**:  Problem ([Download](Exercise_5_3.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_3.ipynb)) Solution ([Download](Exercise_5_3_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_3_solution.ipynb))
+
 ### Section 2 - Standard Architectures of Deep Networks
 
 #### Chapter 7 - Fully-connected networks: improving the classic all-rounder
