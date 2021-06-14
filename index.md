@@ -39,10 +39,19 @@ For more information on the book, refer to the page by the [publisher](https://w
 * **9.1**:  Problem ([Download](Exercise_9_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_9_1.ipynb))
 * **9.2**:  Problem ([Download](Exercise_9_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_9_2.ipynb)) Solution ([Download](Exercise_9_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_9_2_solution.ipynb))
 
+#### Chapter 10 - Graph networks and convolutions beyond Euclidean domains
+* **10.1**:  Problem ([Download](Exercise_10_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_10_1.ipynb)) Solution ([Download](Exercise_10_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_10_1_solution.ipynb))
+
+#### Chapter 11 - Multi-task learning, hybrid architectures, and operational reality
+* **11.1**:  Problem ([Download](Exercise_11_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_11_1.ipynb)) Solution ([Download](Exercise_11_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_11_1_solution.ipynb))
+
 ### Section 3 - Introspection, Uncertainties, Objectives
 * **12.2**:  Problem ([Download](Exercise_12_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_2.ipynb)) Solution ([Download](Exercise_12_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_2_solution.ipynb))
 
 ### Section 4 - Deep Learning Advanced Concepts
+
+#### Chapter 16 - Weakly-supervised classification
+* **16.1**:  Problem ([Download](Exercise_16_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1.ipynb)) Solution ([Download](Exercise_16_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1_solution.ipynb))
 
 ## Errata
 
