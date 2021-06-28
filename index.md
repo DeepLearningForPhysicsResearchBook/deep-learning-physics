@@ -18,14 +18,12 @@ For more information on the book, refer to the page by the [publisher](https://w
 
 
 #### Chapter 4 - Optimization of network parameters
-* **4.1**:  Problem ([Download](Exercise_4_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4_1.ipynb)) Solution ([Download](Exercise_4_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4_1_solution.ipynb))
 * **4.2**:  Problem ([Download](Exercise_4_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4_2.ipynb)) Solution ([Download](Exercise_4_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4_2_solution.ipynb))
 * **4.3**:  Problem ([Download](Exercise_4_3.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4_3.ipynb)) Solution ([Download](Exercise_4_3_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4_3_solution.ipynb))
 
 #### Chapter 5 - Mastering model building
 * **5.1**:  Problem ([Download](Exercise_5_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_1.ipynb)) Solution ([Download](Exercise_5_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_1_solution.ipynb))
 * **5.2**:  Problem ([Download](Exercise_5_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_2.ipynb)) Solution ([Download](Exercise_5_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_2_solution.ipynb))
-* **5.3**:  Problem ([Download](Exercise_5_3.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_3.ipynb)) Solution ([Download](Exercise_5_3_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_3_solution.ipynb))
 
 ### Section 2 - Standard Architectures of Deep Networks
 
