@@ -12,8 +12,7 @@ For more information on the book, refer to the page by the [publisher](https://w
 ### Section 1 - Deep Learning Basics
 
 #### Chapter 3 - Building blocks of neural networks
-* **3.1: Introduction**  
-([Download](Exercise_3_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_3_1.ipynb)) 
+* **3.1: Introduction** ([Download](Exercise_3_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_3_1.ipynb)) 
 * **3.2: Linear regression (fit)**  
 Problem ([Download](Exercise_3_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_3_2.ipynb)) Solution ([Download](Exercise_3_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_3_2_solution.ipynb))
 * **3.3: XOR classification**  
@@ -69,8 +68,26 @@ Problem ([Download](Exercise_12_2.ipynb) - [View](https://nbviewer.jupyter.org/g
 * **16.1: Zachary’s karate club - semi-supervised node classification**  
 Problem ([Download](Exercise_16_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1.ipynb)) Solution ([Download](Exercise_16_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1_solution.ipynb))
 
+
+
+### Citation
+
+```@book{doi:10.1142/12294,
+	author = {Erdmann, Martin and Glombitza, Jonas and Kasieczka, Gregor and Klemradt, Uwe},
+	title = {Deep Learning for Physics Research},
+	publisher = {WORLD SCIENTIFIC},
+	year = {2021},
+	doi = {10.1142/12294},
+	address = {},
+	edition   = {},
+	URL = {http://deeplearningphysics.org},
+	eprint = {https://worldscientific.com/doi/pdf/10.1142/12294}
+}
+```
+
 ## Errata
 
 Please report mistakes to [authors@deeplearningphysics.org](mailto:authors@deeplearningphysics.org).
 
 So far, no errors are known.
+
