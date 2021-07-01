@@ -29,7 +29,7 @@ Problem ([Download](Exercise_4_3.ipynb) - [View](https://nbviewer.jupyter.org/gi
 * **5.1: Regularization and parameter norm penalties**  
 Problem ([Download](Exercise_5_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_1.ipynb)) Solution ([Download](Exercise_5_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_1_solution.ipynb))
 * **5.2: Interpolation: train a DNN to learn a complicated function**  
-Problem ([Download](Exercise_5_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_2.ipynb)) Solution ([Download](Exercise_5_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_2_solution.ipynb))
+Problem ([Download](Exercise_5_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_2.ipynb)) Solution ([Download](Exercise_5_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_2_solution.ipynb))  
 
 ### Section 2 - Standard Architectures of Deep Networks
 
@@ -53,14 +53,13 @@ Problem ([Download](Exercise_10_1.ipynb) - [View](https://nbviewer.jupyter.org/g
 * **16.1: Semi-supervised node classification using graph convolutional networks**  
 Problem ([Download](Exercise_16_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1.ipynb)) Solution ([Download](Exercise_16_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1_solution.ipynb))
 
-
 #### Chapter 11 - Multi-task learning, hybrid architectures, and operational reality
 * **11.1: Reconstruction of cosmic-ray-induced air showers**  
 Problem ([Download](Exercise_11_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_11_1.ipynb)) Solution ([Download](Exercise_11_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_11_1_solution.ipynb))
 
 ### Section 3 - Introspection, Uncertainties, Objectives
 * **12.2: Feature visualization using activation maximization**  
-Problem ([Download](Exercise_12_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_2.ipynb)) Solution ([Download](Exercise_12_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_2_solution.ipynb))
+Problem ([Download](Exercise_12_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_2.ipynb)) Solution ([Download](Exercise_12_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_2_solution.ipynb))  
 
 ### Section 4 - Deep Learning Advanced Concepts
 
@@ -68,22 +67,32 @@ Problem ([Download](Exercise_12_2.ipynb) - [View](https://nbviewer.jupyter.org/g
 * **16.1: Zachary’s karate club - semi-supervised node classification**  
 Problem ([Download](Exercise_16_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1.ipynb)) Solution ([Download](Exercise_16_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1_solution.ipynb))
 
+#### Chapter 17 - Autoencoders: finding andcompressing structures in data
+* **17.1: Speckle removal with denoising autoencoders**  
+Problem ([Download](Exercise_17_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_17_1.ipynb)) Solution ([Download](Exercise_17_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_17_1_solution.ipynb))
+
+#### Chapter 18 - Generative models: data from noise
+* **18.1: Generation of fashion images using Generative Adversarial Networks**  
+Problem ([Download](Exercise_18_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_1.ipynb)) Solution ([Download](Exercise_18_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_1_solution.ipynb))
+* **18.2: Generation of air-shower footprints using WGAN**  
+Problem ([Download](Exercise_18_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_2.ipynb)) Solution ([Download](Exercise_18_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_2_solution.ipynb))  
 
 
 ### Citation
 
-```@book{doi:10.1142/12294,
-	author = {Erdmann, Martin and Glombitza, Jonas and Kasieczka, Gregor and Klemradt, Uwe},
-	title = {Deep Learning for Physics Research},
-	publisher = {WORLD SCIENTIFIC},
-	year = {2021},
-	doi = {10.1142/12294},
-	address = {},
-	edition   = {},
-	URL = {http://deeplearningphysics.org},
-	eprint = {https://worldscientific.com/doi/pdf/10.1142/12294}
-}
 ```
+@book{doi:10.1142/12294,
+	  author = {Erdmann, Martin and Glombitza, Jonas and Kasieczka, Gregor and Klemradt, Uwe},
+	  title = {Deep Learning for Physics Research},
+	  publisher = {WORLD SCIENTIFIC},
+	  year = {2021},
+	  doi = {10.1142/12294},
+	  address = {},
+	  edition   = {},
+	  URL = {http://deeplearningphysics.org},
+	  eprint = {https://worldscientific.com/doi/pdf/10.1142/12294}
+}
+```  
 
 ## Errata
 
