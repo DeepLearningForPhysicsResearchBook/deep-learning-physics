@@ -20,6 +20,8 @@ Problem ([Download](Exercise_3_3.ipynb) - [View](https://nbviewer.jupyter.org/gi
 
 
 #### Chapter 4 - Optimization of network parameters
+* **4.1: Manual defintion of regression network**  
+Problem ([Download](Exercise_4_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4_1.ipynb)) Solution ([Download](Exercise_4_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4_1_solution.ipynb))
 * **4.2: Implementation of a neural network**  
 Problem ([Download](Exercise_4_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4_2.ipynb)) Solution ([Download](Exercise_4_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_4_2_solution.ipynb))
 * **4.3: Linear regression using keras**  
