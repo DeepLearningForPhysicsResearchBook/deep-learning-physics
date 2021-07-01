@@ -14,6 +14,14 @@ You may open the Exercise page on:
   [![SWAN](http://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/DeepLearningForPhysicsResearchBook/deep-learning-physics.git)
 
 
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[cc-by-nc]: http://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
 
 &nbsp;
 ### Citation
