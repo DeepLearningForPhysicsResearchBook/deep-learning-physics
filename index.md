@@ -7,6 +7,7 @@ The authors can be contacted under [authors@deeplearningphysics.org](mailto:auth
 
 For more information on the book, refer to the page by the [publisher](https://worldscientific.com/worldscibooks/10.1142/12294).
 
+<br/><br/>
 ## Exercises
 
 ### Section 1 - Deep Learning Basics
@@ -33,6 +34,7 @@ Problem ([Download](Exercise_5_1.ipynb) - [View](https://nbviewer.jupyter.org/gi
 * **5.2: Interpolation: train a DNN to learn a complicated function**  
 Problem ([Download](Exercise_5_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_2.ipynb)) Solution ([Download](Exercise_5_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_5_2_solution.ipynb))  
 
+<br/><br/>
 ### Section 2 - Standard Architectures of Deep Networks
 
 #### Chapter 7 - Fully-connected networks: improving the classic all-rounder
@@ -59,10 +61,12 @@ Problem ([Download](Exercise_16_1.ipynb) - [View](https://nbviewer.jupyter.org/g
 * **11.1: Reconstruction of cosmic-ray-induced air showers**  
 Problem ([Download](Exercise_11_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_11_1.ipynb)) Solution ([Download](Exercise_11_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_11_1_solution.ipynb))
 
+<br/><br/>
 ### Section 3 - Introspection, Uncertainties, Objectives
 * **12.2: Feature visualization using activation maximization**  
 Problem ([Download](Exercise_12_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_2.ipynb)) Solution ([Download](Exercise_12_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_2_solution.ipynb))  
 
+<br/><br/>
 ### Section 4 - Deep Learning Advanced Concepts
 
 #### Chapter 16 - Weakly-supervised classification
@@ -79,7 +83,7 @@ Problem ([Download](Exercise_18_1.ipynb) - [View](https://nbviewer.jupyter.org/g
 * **18.2: Generation of air-shower footprints using WGAN**  
 Problem ([Download](Exercise_18_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_2.ipynb)) Solution ([Download](Exercise_18_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_2_solution.ipynb))  
 
-
+<br/><br/>
 ### Citation
 
 ```
@@ -96,6 +100,7 @@ Problem ([Download](Exercise_18_2.ipynb) - [View](https://nbviewer.jupyter.org/g
 }
 ```  
 
+<br/><br/>
 ## Errata
 
 Please report mistakes to [authors@deeplearningphysics.org](mailto:authors@deeplearningphysics.org).
