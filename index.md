@@ -31,7 +31,7 @@ Problem ([Download](Exercise_04_3.ipynb) - [View](https://nbviewer.jupyter.org/g
 * **5.1: Regularization and parameter norm penalties**  
 Problem ([Download](Exercise_05_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_1.ipynb)) Solution ([Download](Exercise_05_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_1_solution.ipynb))
 * **5.2: Interpolation: train a DNN to learn a complicated function**  
-Problem ([Download](Exercise_05_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_2.ipynb)) Solution ([Download](Exercise_05_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_2_solution.ipynb))  
+Problem ([Download](Exercise_05_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_2.ipynb)) Solution ([Download](Exercise_05_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_2_solution.ipynb))
 
 ---
 ### Section 2 - Standard Architectures of Deep Networks
@@ -85,6 +85,7 @@ Problem ([Download](Exercise_17_1.ipynb) - [View](https://nbviewer.jupyter.org/g
 Problem ([Download](Exercise_18_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_1.ipynb)) Solution ([Download](Exercise_18_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_1_solution.ipynb))
 * **18.2: Generation of air-shower footprints using WGAN**  
 Problem ([Download](Exercise_18_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_2.ipynb)) Solution ([Download](Exercise_18_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_2_solution.ipynb))  
+
 ---
 
 &nbsp;
