@@ -11,9 +11,11 @@ You may open the Exercise page on:
 
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/master)
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DeepLearningForPhysicsResearchBook/deep-learning-physics/HEAD)
+
+Or the CERN SWAN service    
   [![SWAN](http://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/DeepLearningForPhysicsResearchBook/deep-learning-physics.git)
 
-
+&nbsp;
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
