@@ -9,7 +9,7 @@ The authors can be contacted under [authors@deeplearningphysics.org](mailto:auth
 For more information on the book, refer to the page by the [publisher](https://worldscientific.com/worldscibooks/10.1142/12294).
 
 ## Exercises
-
+You can view and download the IPython notebooks of the individual tasks or access the entire [git repository](https://github.com/DeepLearningForPhysicsResearchBook/deep-learning-physics)
 ### Section 1 - Deep Learning Basics
 #### Chapter 3 - Building blocks of neural networks
 * **3.1: Introduction** ([Download](Exercise_03_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_03_1.ipynb))
