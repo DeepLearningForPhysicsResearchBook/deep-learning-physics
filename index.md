@@ -20,11 +20,11 @@ Problem ([Download](Exercise_03_3.ipynb) - [View](https://nbviewer.jupyter.org/g
 
 
 #### Chapter 4 - Optimization of network parameters
-* **4.1: Manual defintion of regression network**  
+* **4.1: Manual definition of regression network**  
 Problem ([Download](Exercise_04_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_1.ipynb)), Solution ([Download](Exercise_04_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_1_solution.ipynb))
 * **4.2: Implementation of a neural network**  
 Problem ([Download](Exercise_04_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_2.ipynb)), Solution ([Download](Exercise_04_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_2_solution.ipynb))
-* **4.3: Linear regression using keras**  
+* **4.3: Linear regression using Keras**  
 Problem ([Download](Exercise_04_3.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_3.ipynb)), Solution ([Download](Exercise_04_3_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_3_solution.ipynb))
 
 #### Chapter 5 - Mastering model building
@@ -37,12 +37,12 @@ Problem ([Download](Exercise_05_2.ipynb) - [View](https://nbviewer.jupyter.org/g
 ### Section 2 - Standard Architectures of Deep Networks
 
 #### Chapter 7 - Fully-connected networks: improving the classic all-rounder
-* **7.1: Classification of magentic phases using fully-connected networks**  
-Problem ([Download](Exercise_07_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_07_1.ipynb)), Solution ([Download](Exercise_07_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_07_1_solution.ipynb))
+* **7.1: Classification of magnetic phases using fully-connected networks**  
+Problem ([Download](Exercise_07_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_07_1.ipynb)), Solution ([Download](Exercise_07_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_07_1_solution.ipynb))
 
 #### Chapter 8 - Convolutional neural networks and analysis of image-like data
-* **8.1: Classification of magentic phases using convolutional networks**  
-Problem ([Download](Exercise_08_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_08_1.ipynb)), Solution ([Download](Exercise_08_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_08_1_solution.ipynb))
+* **8.1: Classification of magnetic phases using convolutional networks**  
+Problem ([Download](Exercise_08_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_08_1.ipynb)), Solution ([Download](Exercise_08_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_08_1_solution.ipynb))
 
 #### Chapter 9 - Recurrent neural networks: time series and variable input
 * **9.1: Get in touch with RNNs: learn a sine wave**  
@@ -76,7 +76,7 @@ Problem ([Download](Exercise_12_3.ipynb) - [View](https://nbviewer.jupyter.org/g
 * **16.1: Zachary’s karate club - semi-supervised node classification**  
 Problem ([Download](Exercise_16_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1.ipynb)), Solution ([Download](Exercise_16_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1_solution.ipynb))
 
-#### Chapter 17 - Autoencoders: finding andcompressing structures in data
+#### Chapter 17 - Autoencoders: finding and compressing structures in data
 * **17.1: Speckle removal with denoising autoencoders**  
 Problem ([Download](Exercise_17_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_17_1.ipynb)), Solution ([Download](Exercise_17_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_17_1_solution.ipynb))
 
