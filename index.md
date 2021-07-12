@@ -31,6 +31,9 @@ Problem ([Download](Exercise_04_3.ipynb) - [View](https://nbviewer.jupyter.org/g
 Problem ([Download](Exercise_05_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_1.ipynb)), Solution ([Download](Exercise_05_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_1_solution.ipynb))
 * **5.2: Interpolation: train a DNN to learn a complicated function**  
 Problem ([Download](Exercise_05_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_2.ipynb)), Solution ([Download](Exercise_05_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_2_solution.ipynb))
+* **5.3: Regression with Keras**
+Problem ([Download](Exercise_05_3.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_3.ipynb)), Solution ([Download](Exercise_05_3_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_3_solution.ipynb))
+
 
 ---
 ### Section 2 - Standard Architectures of Deep Networks
