@@ -113,3 +113,8 @@ Problem ([Download](Exercise_18_2.ipynb) - [View](https://nbviewer.jupyter.org/g
 Please report mistakes to [authors@deeplearningphysics.org](mailto:authors@deeplearningphysics.org).
 
 So far, no errors are known.
+
+## Usage
+
+Note: To improve the exercise page and potentially improve and extend the scope, we track page visits via Google Analytics. 
+
