@@ -116,5 +116,7 @@ So far, no errors are known.
 
 ## Usage
 
-Note: To improve the exercise page and potentially improve and extend the scope, we track page visits via Google Analytics. 
+Note: To improve the exercise page and potentially improve and extend
+the scope, we measure the use of the task templates and the interest in
+the solutions with the tool Google Analytics.
 
