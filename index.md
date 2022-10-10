@@ -41,10 +41,17 @@ Problem ([Download](Exercise_05_3.ipynb) - [View](https://nbviewer.jupyter.org/g
 #### Chapter 7 - Fully-connected networks: improving the classic all-rounder
 * **7.1: Classification of magnetic phases using fully-connected networks**  
 Problem ([Download](Exercise_07_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_07_1.ipynb)), Solution ([Download](Exercise_07_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_07_1_solution.ipynb))
+* **7.2: Energy reconstruction of air showers using fully-connected networks**  
+Problem ([Download](Exercise_07_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_07_2.ipynb)), Solution ([Download](Exercise_07_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_07_2_solution.ipynb))
+
 
 #### Chapter 8 - Convolutional neural networks and analysis of image-like data
 * **8.1: Classification of magnetic phases using convolutional networks**  
 Problem ([Download](Exercise_08_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_08_1.ipynb)), Solution ([Download](Exercise_08_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_08_1_solution.ipynb))
+* **8.2: Energy reconstruction of air showers using convolutional networks**  
+Problem ([Download](Exercise_08_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_08_2.ipynb)), Solution ([Download](Exercise_08_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_08_2_solution.ipynb))
+
+
 
 #### Chapter 9 - Recurrent neural networks: time series and variable input
 * **9.1: Get in touch with RNNs: learn a sine wave**  
@@ -119,4 +126,3 @@ So far, no errors are known.
 Note: To improve the exercise page and potentially improve and extend
 the scope, we measure the use of the task templates and the interest in
 the solutions with the tool Google Analytics.
-
