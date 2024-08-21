@@ -21,9 +21,9 @@ Problem ([Download](Exercise_03_3.ipynb) - [View](https://nbviewer.jupyter.org/g
 #### Chapter 4 - Optimization of network parameters
 * **4.1: Manual definition of regression network**  
 Problem ([Download](Exercise_04_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_1.ipynb)), Solution ([Download](Exercise_04_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_1_solution.ipynb))
-* **4.2: Implementation of a neural network**  
+* **4.2: Linear regression using Keras**  
 Problem ([Download](Exercise_04_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_2.ipynb)), Solution ([Download](Exercise_04_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_2_solution.ipynb))
-* **4.3: Linear regression using Keras**  
+* **4.3: Classification: metrics, classes, and one-hot encoding**  
 Problem ([Download](Exercise_04_3.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_3.ipynb)), Solution ([Download](Exercise_04_3_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_3_solution.ipynb))
 
 #### Chapter 5 - Mastering model building
