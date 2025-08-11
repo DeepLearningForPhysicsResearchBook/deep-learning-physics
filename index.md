@@ -8,6 +8,8 @@ The authors can be contacted under [authors@deeplearningphysics.org](mailto:auth
 
 For more information on the book, refer to the page by the [publisher](https://worldscientific.com/worldscibooks/10.1142/12294).
 
+All of the examples make use of [Keras](https://keras.io/), version 2.X.
+
 ## Exercises
 ### Section 1 - Deep Learning Basics
 #### Chapter 3 - Building blocks of neural networks
