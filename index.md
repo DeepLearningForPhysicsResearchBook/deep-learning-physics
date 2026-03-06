@@ -80,6 +80,7 @@ Problem ([Download](Exercise_11_1.ipynb) - [View](https://nbviewer.jupyter.org/g
 
 ---
 ### Section 3 - Introspection, Uncertainties, Objectives
+#### Chapter 12 - Uncertainties and robustness
 <a id="chapter12"></a>
 * **12.1: Visualization of weights and activations**  
 Problem ([Download](Exercise_12_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_1.ipynb)), Solution ([Download](Exercise_12_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_1_solution.ipynb))  
