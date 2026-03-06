@@ -21,7 +21,7 @@ Problem ([Download](Exercise_03_3.ipynb) - [View](https://nbviewer.jupyter.org/g
 
 
 #### Chapter 4 - Optimization of network parameters
-* **4.1: Manual definition of regression network**  
+* **4.1: Manual implementation of a neural network**  
 Problem ([Download](Exercise_04_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_1.ipynb)), Solution ([Download](Exercise_04_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_1_solution.ipynb))
 * **4.2: Linear regression using Keras**  
 Problem ([Download](Exercise_04_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_2.ipynb)), Solution ([Download](Exercise_04_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_2_solution.ipynb))
@@ -31,7 +31,7 @@ Problem ([Download](Exercise_04_3.ipynb) - [View](https://nbviewer.jupyter.org/g
 #### Chapter 5 - Mastering model building
 * **5.1: Regularization and parameter norm penalties**  
 Problem ([Download](Exercise_05_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_1.ipynb)), Solution ([Download](Exercise_05_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_1_solution.ipynb))
-* **5.2: Interpolation: train a DNN to learn a complicated function**  
+* **5.2: Interpolation and universal approximators**  
 Problem ([Download](Exercise_05_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_2.ipynb)), Solution ([Download](Exercise_05_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_2_solution.ipynb))
 * **5.3: Regression with Keras**  
 Problem ([Download](Exercise_05_3.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_3.ipynb)), Solution ([Download](Exercise_05_3_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_3_solution.ipynb))
@@ -62,7 +62,7 @@ Problem ([Download](Exercise_09_1.ipynb) - [View](https://nbviewer.jupyter.org/g
 Problem ([Download](Exercise_09_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_09_2.ipynb)), Solution ([Download](Exercise_09_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_09_2_solution.ipynb))
 
 #### Chapter 10 - Graph networks and convolutions beyond Euclidean domains
-* **10.1: Signal Classification using Dynamic Graph Convolutional Neural Networks**  
+* **10.1: Signal Classification using Graph Convolutional Neural Networks**  
 Problem ([Download](Exercise_10_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_10_1.ipynb)), Solution ([Download](Exercise_10_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_10_1_solution.ipynb))
 * **(16.1: Semi-supervised node classification using graph convolutional networks)**  
 Problem ([Download](Exercise_16_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1.ipynb)), Solution ([Download](Exercise_16_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1_solution.ipynb))
