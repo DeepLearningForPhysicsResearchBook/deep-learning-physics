@@ -106,8 +106,10 @@ Problem ([Download](Exercise_17_1.ipynb) - [View](https://nbviewer.jupyter.org/g
 
 <a id="chapter18"></a>
 #### Chapter 18 - Generative models: data from noise
+<a id="chapter18-1"></a>
 * **18.1: Generation of fashion images using Generative Adversarial Networks**  
 Problem ([Download](Exercise_18_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_1.ipynb)), Solution ([Download](Exercise_18_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_1_solution.ipynb))
+<a id="chapter18-2"></a>
 * **18.2: Generation of air-shower footprints using WGAN**  
 Problem ([Download](Exercise_18_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_2.ipynb)), Solution ([Download](Exercise_18_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_2_solution.ipynb))  
 
