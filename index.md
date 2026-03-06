@@ -12,6 +12,7 @@ All of the examples make use of [Keras](https://keras.io/), version 2.X.
 
 ## Exercises
 ### Section 1 - Deep Learning Basics
+<a id="chapter3"></a>
 #### Chapter 3 - Building blocks of neural networks
 * **3.1: Introduction** ([Download](Exercise_03_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_03_1.ipynb))
 * **3.2: Linear regression (fit)**  
@@ -19,7 +20,7 @@ Problem ([Download](Exercise_03_2.ipynb) - [View](https://nbviewer.jupyter.org/g
 * **3.3: XOR classification**  
 Problem ([Download](Exercise_03_3.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_03_3.ipynb)), Solution ([Download](Exercise_03_3_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_03_3_solution.ipynb))
 
-
+<a id="chapter4"></a>
 #### Chapter 4 - Optimization of network parameters
 * **4.1: Manual implementation of a neural network**  
 Problem ([Download](Exercise_04_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_1.ipynb)), Solution ([Download](Exercise_04_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_1_solution.ipynb))
@@ -28,6 +29,7 @@ Problem ([Download](Exercise_04_2.ipynb) - [View](https://nbviewer.jupyter.org/g
 * **4.3: Classification: metrics, classes, and one-hot encoding**  
 Problem ([Download](Exercise_04_3.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_3.ipynb)), Solution ([Download](Exercise_04_3_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_04_3_solution.ipynb))
 
+<a id="chapter5"></a>
 #### Chapter 5 - Mastering model building
 * **5.1: Regularization and parameter norm penalties**  
 Problem ([Download](Exercise_05_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_1.ipynb)), Solution ([Download](Exercise_05_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_05_1_solution.ipynb))
@@ -40,6 +42,7 @@ Problem ([Download](Exercise_05_3.ipynb) - [View](https://nbviewer.jupyter.org/g
 ---
 ### Section 2 - Standard Architectures of Deep Networks
 
+<a id="chapter7"></a>
 #### Chapter 7 - Fully-connected networks: improving the classic all-rounder
 * **7.1: Classification of magnetic phases using fully-connected networks**  
 Problem ([Download](Exercise_07_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_07_1.ipynb)), Solution ([Download](Exercise_07_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_07_1_solution.ipynb))
@@ -47,6 +50,7 @@ Problem ([Download](Exercise_07_1.ipynb) - [View](https://nbviewer.jupyter.org/g
 Problem ([Download](Exercise_07_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_07_2.ipynb)), Solution ([Download](Exercise_07_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_07_2_solution.ipynb))
 
 
+<a id="chapter8"></a>
 #### Chapter 8 - Convolutional neural networks and analysis of image-like data
 * **8.1: Classification of magnetic phases using convolutional networks**  
 Problem ([Download](Exercise_08_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_08_1.ipynb)), Solution ([Download](Exercise_08_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_08_1_solution.ipynb))
@@ -54,25 +58,29 @@ Problem ([Download](Exercise_08_1.ipynb) - [View](https://nbviewer.jupyter.org/g
 Problem ([Download](Exercise_08_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_08_2.ipynb)), Solution ([Download](Exercise_08_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_08_2_solution.ipynb))
 
 
-
+<a id="chapter9"></a>
 #### Chapter 9 - Recurrent neural networks: time series and variable input
 * **9.1: Get in touch with RNNs: learn a sine wave**  
 Problem ([Download](Exercise_09_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_09_1.ipynb))
 * **9.2: Identification of radio signals using RNNs**  
 Problem ([Download](Exercise_09_2.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_09_2.ipynb)), Solution ([Download](Exercise_09_2_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_09_2_solution.ipynb))
 
+<a id="chapter10"></a>
 #### Chapter 10 - Graph networks and convolutions beyond Euclidean domains
 * **10.1: Signal Classification using Graph Convolutional Neural Networks**  
 Problem ([Download](Exercise_10_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_10_1.ipynb)), Solution ([Download](Exercise_10_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_10_1_solution.ipynb))
 * **(16.1: Semi-supervised node classification using graph convolutional networks)**  
 Problem ([Download](Exercise_16_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1.ipynb)), Solution ([Download](Exercise_16_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1_solution.ipynb))
 
+
+<a id="chapter11"></a>
 #### Chapter 11 - Multi-task learning, hybrid architectures, and operational reality
 * **11.1: Reconstruction of cosmic-ray-induced air showers**  
 Problem ([Download](Exercise_11_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_11_1.ipynb)), Solution ([Download](Exercise_11_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_11_1_solution.ipynb))
 
 ---
 ### Section 3 - Introspection, Uncertainties, Objectives
+<a id="chapter12"></a>
 * **12.1: Visualization of weights and activations**  
 Problem ([Download](Exercise_12_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_1.ipynb)), Solution ([Download](Exercise_12_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_12_1_solution.ipynb))  
 * **12.2: Feature visualization using activation maximization**  
@@ -83,14 +91,19 @@ Problem ([Download](Exercise_12_3.ipynb) - [View](https://nbviewer.jupyter.org/g
 ---
 ### Section 4 - Deep Learning Advanced Concepts
 
+<a id="chapter16"></a>
 #### Chapter 16 - Weakly-supervised classification
 * **16.1: Zachary’s karate club - semi-supervised node classification**  
 Problem ([Download](Exercise_16_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1.ipynb)), Solution ([Download](Exercise_16_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_16_1_solution.ipynb))
 
+
+<a id="chapter17"></a>
 #### Chapter 17 - Autoencoders: finding and compressing structures in data
 * **17.1: Speckle removal with denoising autoencoders**  
 Problem ([Download](Exercise_17_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_17_1.ipynb)), Solution ([Download](Exercise_17_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_17_1_solution.ipynb))
 
+
+<a id="chapter18"></a>
 #### Chapter 18 - Generative models: data from noise
 * **18.1: Generation of fashion images using Generative Adversarial Networks**  
 Problem ([Download](Exercise_18_1.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_1.ipynb)), Solution ([Download](Exercise_18_1_solution.ipynb) - [View](https://nbviewer.jupyter.org/github/DeepLearningForPhysicsResearchBook/deep-learning-physics/blob/main/Exercise_18_1_solution.ipynb))
